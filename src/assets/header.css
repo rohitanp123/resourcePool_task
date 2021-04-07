@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    align-items: center;
+    background-color: rgb(178, 201, 243);
+}
+.header_Left{
+    display: flex;
+    align-items: center;
+}
+.cart_button{
+    background-color: rgb(245, 153, 119);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.header_title{
+    margin: 0 0 0 10px;
+}

@@ -1,0 +1,19 @@
+.sideBar_container{
+    width: 20%;
+    /* display: flex; */
+    background-color: rgb(206, 220, 247);
+    /* justify-content: space-evenly; */
+    padding: 20px 0;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.size_buttons{
+    outline: none;
+    border: none;
+    background-color: rgb(243, 238, 171);
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
